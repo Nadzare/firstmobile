@@ -18,7 +18,7 @@ Fungsionalitas pada pertemuan ini:
 
 ### 🖼️ Bukti Output
 **Tampilan Emulator:**  
-![emulator](https://github.com/user-attachments/assets/f7463664-e284-47d8-ae98-cbc8d5491154)
+<img src="https://github.com/user-attachments/assets/f7463664-e284-47d8-ae98-cbc8d5491154" alt="emulator" width="300"/>  
 
 **Tampilan Smartphone:**  
-![smartphone](https://github.com/user-attachments/assets/3578dcc6-5583-4897-b917-a41a8572655d)
+<img src="https://github.com/user-attachments/assets/3578dcc6-5583-4897-b917-a41a8572655d" alt="smartphone" width="300"/>  
