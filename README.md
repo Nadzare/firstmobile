@@ -21,4 +21,18 @@ Fungsionalitas pada pertemuan ini:
 <img src="https://github.com/user-attachments/assets/f7463664-e284-47d8-ae98-cbc8d5491154" alt="emulator" width="300"/>  
 
 **Tampilan Smartphone:**  
-<img src="https://github.com/user-attachments/assets/3578dcc6-5583-4897-b917-a41a8572655d" alt="smartphone" width="300"/>  
+<img src="https.com/user-attachments/assets/3578dcc6-5583-4897-b917-a41a8572655d" alt="smartphone" width="300"/>  
+
+---
+
+## Tugas 2 — Pertemuan 3  
+
+### 📌 Ringkasan
+Pengembangan dari tugas sebelumnya dengan penerapan:  
+- **View Binding** untuk mengakses komponen UI tanpa `findViewById`, sehingga kode lebih aman dan ringkas.  
+- **Navigasi antar halaman** menggunakan `Intent`, tombol **Next** pada halaman utama sekarang berfungsi untuk berpindah ke halaman kedua.  
+
+---
+
+### 🖼️ Bukti Output
+<img src="https://github.com/Nadzare/firstmobile/blob/main/app/src/main/res/drawable/Tugas2Pertemuan3.gif" alt="output Tugas 2 Pertemuan 3" width="300"/>
