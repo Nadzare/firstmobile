@@ -36,3 +36,20 @@ Pengembangan dari tugas sebelumnya dengan penerapan:
 
 ### 🖼️ Bukti Output
 <img src="https://github.com/Nadzare/firstmobile/blob/main/app/src/main/res/drawable/Tugas2Pertemuan3.gif" alt="output Tugas 2 Pertemuan 3" width="300"/>
+
+
+
+---
+
+## Tugas 3 — Pertemuan 4  
+
+### 📌 Ringkasan
+Pengembangan lebih lanjut dengan penerapan:  
+- **Arsitektur MVVM (Model–View–ViewModel)** agar kode lebih terstruktur, mudah diuji, dan terpisah antara logika bisnis dengan tampilan.  
+- **Networking dengan Retrofit** untuk mengambil data dari API secara efisien dan menampilkannya ke aplikasi.  
+
+---
+
+### 🖼️ Bukti Output
+<img src="https://github.com/Nadzare/firstmobile/blob/main/app/src/main/res/drawable/video_20250930_010816_edit.gif" alt="output Tugas 3 Pertemuan 4" width="300"/>
+
